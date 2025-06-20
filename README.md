@@ -31,7 +31,7 @@ This repository contains a comprehensive implementation of the **Week 3 AI Tools
 
 ---
 
-## 🔧 Tools & Frameworks Used
+## Tools & Frameworks Used
 
 - **Scikit-learn** – For classical machine learning models
 - **TensorFlow / PyTorch** – For deep learning (CNN on MNIST)
@@ -42,27 +42,27 @@ This repository contains a comprehensive implementation of the **Week 3 AI Tools
 
 ---
 
-## 📊 Project Tasks Summary
+## Project Tasks Summary
 
-### 1. 🧠 Theoretical Understanding
+### 1. Theoretical Understanding
 - Explained key differences between TensorFlow and PyTorch
 - Described Jupyter Notebook applications in AI development
 - Compared spaCy with basic Python string methods for NLP
 - Conducted comparative analysis of Scikit-learn vs TensorFlow
 
-### 2. 💻 Practical Implementation
+### 2. Practical Implementation
 - **Task 1:** Decision Tree classifier using Scikit-learn (Iris dataset)
 - **Task 2:** CNN model using TensorFlow for MNIST classification
 - **Task 3:** spaCy-based NER and sentiment analysis on Amazon reviews
 
-### 3. ⚖️ Ethics & Optimization
+### 3. Ethics & Optimization
 - Identified bias in datasets/models
 - Reviewed fairness tools (TensorFlow Fairness Indicators, spaCy rules)
 - Debugged a faulty TensorFlow training script
 
 ---
 
-## ✅ How to Run the Code
+## How to Run the Code
 
 1. Clone the repository or open notebooks directly in [Google Colab](https://colab.research.google.com/).
 
