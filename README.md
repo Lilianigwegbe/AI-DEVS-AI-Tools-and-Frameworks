@@ -62,6 +62,11 @@ This repository contains a comprehensive implementation of the **Week 3 AI Tools
 
 ---
 
+## Collaboration: 
+This assignment was completed by a group of five members. You can find more details of the group members and their contributions at team/contributions.md.
+
+---
+
 ## How to Run the Code
 
 1. Clone the repository or open notebooks directly in [Google Colab](https://colab.research.google.com/).
